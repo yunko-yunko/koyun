@@ -1,0 +1,62 @@
+@font-face {
+    font-family: 'NanumSquareNeoLight';
+    src: url(https://hangeul.pstatic.net/hangeul_static/webfont/NanumSquareNeo/NanumSquareNeoTTF-aLt.eot);
+    src: url(https://hangeul.pstatic.net/hangeul_static/webfont/NanumSquareNeo/NanumSquareNeoTTF-aLt.eot?#iefix) format("embedded-opentype"), url(https://hangeul.pstatic.net/hangeul_static/webfont/NanumSquareNeo/NanumSquareNeoTTF-aLt.woff) format("woff"), url(https://hangeul.pstatic.net/hangeul_static/webfont/NanumSquareNeo/NanumSquareNeoTTF-aLt.ttf) format("truetype");
+}
+@font-face {
+    font-family: 'LINESeedKR-Bd';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_11-01@1.0/LINESeedKR-Bd.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SUITE-Regular';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2304-2@1.0/SUITE-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+.sec1{
+    font-family: 'NanumSquareNeoLight';
+    color: white;
+    font-size: 48px;
+    letter-spacing: 5px;
+}
+.sec{
+    top: 3px;
+    color: white;
+    margin-bottom: 20px;
+}
+.section{ 
+    margin-left: 12vw;
+}
+.people_picture{
+    width: 400px;
+    height: 250px;
+    border: solid 1px #f0613d;
+    border-radius: 50px;
+    margin-left: 85px;
+    margin-top: 30px;
+    margin-right: 20px;
+    text-align: center;
+    color: white;
+}
+.msg1{
+    font-family: 'LINESeedKR-Bd';
+    color: white;
+    font-size: 32px;
+    padding-bottom: 15px;
+}
+.msg2{
+    font-family: 'SUITE-Regular';
+    color: white;
+    font-size: 20px;
+    padding-left: 85px;
+    padding-top: 5px;
+}
+.msg3{
+    font-family: 'SUITE-Regular';
+    color: white;
+    font-size: 20px;
+    padding-top: 5px;
+    margin-bottom: 15px;
+}

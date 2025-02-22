@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'Paperlogy-8ExtraBold';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2408-3@1.0/Paperlogy-8ExtraBold.woff2') format('woff2');
+    font-weight: 800;
+    font-style: normal;
+}
+.picture{
+    width: 30vw; height: 30vw;
+    margin: 0 auto;
+    margin-top: 18vh;
+    margin-bottom: 25vh;
+    text-align: center;
+}
+.picture_image{
+    width: 60%; height: 60%;
+}
+.AnA{
+    font-family: 'Paperlogy-8ExtraBold';
+    color: white;
+    font-size: 40px;
+    width: 100px;
+    margin: 0 auto;
+}
+.AnA:hover{
+    cursor: pointer;
+    color: rgb(182,66,27);
+}
+.AaA{
+    color: white;
+    font-size: 22px;
+}
